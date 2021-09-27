@@ -20,7 +20,7 @@ Anaconda: Jupiter Notebook
  
 **2.  How is the school summary affected?**
 
-   > The result of the school summary that excluded the 9th grade of Thomas High School hasn't affected that much at all from the previous data. The things have changed are that the average of reading scores went up slightly, the average of math scores and the percentages of passing math and reading including overall passing percentage went down slightly from before.
+   > The result of the school summary that excluded the 9th grade of Thomas High School hasn't affected that much at all from the previous data. The things have changed are that the average of reading scores is slightly higher, the average of math scores and the percentages of passing math and reading including overall passing percentage are slightly lower from before.
     
 ![2 School Summary](https://user-images.githubusercontent.com/89308251/133859168-8f51b889-ef3b-42d0-9623-4d99e8569ce6.png)
     
