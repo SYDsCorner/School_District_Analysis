@@ -1,12 +1,20 @@
 # School_District_Analysis
-Anaconda: Jupiter Notebook
 
 ## Challenge Overview
 
 ### Purpose:
    There is evidence of academic dishonesty of reading and math grades for Thomas High School ninth graders. The grades appear to have been altered. The purpose of this analysis is to help Maria replace the math and reading scores for Thomas High School ninth graders with NaNs so the school board can uphold state-testing standards.
 	
-	
+## Resources
+- Software:
+   - Jupyter Notebook 6.4.3
+      - Python 3.8.8
+         - Pandas library
+   
+- Data sources: 
+   - [schools_complete.csv](https://github.com/SYDsCorner/School_District_Analysis/blob/main/Resources/schools_complete.csv)
+   - [students_complete.csv](https://github.com/SYDsCorner/School_District_Analysis/blob/main/Resources/students_complete.csv)
+  	
 	
 ## Results: 
 
