@@ -1,9 +1,12 @@
 # School_District_Analysis
 
+![classroom](https://user-images.githubusercontent.com/89308251/158935251-c056653b-59c8-4da9-a0ae-ef5799bfba68.png)
+
+
 ## Challenge Overview
 
 ### Purpose:
-   There is evidence of academic dishonesty of reading and math grades for Thomas High School ninth graders. The grades appear to have been altered. The purpose of this analysis is to help Maria replace the math and reading scores for Thomas High School ninth graders with NaNs so the school board can uphold state-testing standards.
+   There is evidence of academic dishonesty of reading and math grades for Thomas High School ninth graders. The grades appear to have been altered. The purpose of this analysis is to help replace the math and reading scores for Thomas High School ninth graders with NaNs so the school board can uphold state-testing standards.
 	
 ## Resources
 - Software:
